@@ -3,3 +3,15 @@
 @tailwind components;
 @tailwind utilities;
 
+.absoluteimg{
+    @apply absolute top-5 right-5 ;
+}
+
+.absolutetxt{
+    @apply absolute bottom-5 left-5 ;
+}
+
+.br div{
+    @apply rounded-2xl;
+}
+
