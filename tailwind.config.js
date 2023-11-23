@@ -19,9 +19,11 @@ module.exports = {
       },
       fontSize: {
         large: ['56px'],
+        largem: ['26px'],
         medium: ['40px'],
         saml: ['32px'],
         xsmal: ['18px'],
+        xsmalm: ['16px'],
       },
       fontWeight: {
         title: ['700'],
